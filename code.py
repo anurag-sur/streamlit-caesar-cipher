@@ -61,7 +61,7 @@ st.markdown("""
 </style>
 
 <p class="title">
-Created by Anurag.
+Created by Anurag Sur.
 Check me out on Github!
 </p>
 """, unsafe_allow_html=True)
